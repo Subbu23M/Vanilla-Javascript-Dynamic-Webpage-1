@@ -1,0 +1,29 @@
+// Universal Effects
+
+$fontFamily:'Open Sans',
+sans-serif;
+
+a,
+a:hover {
+    text-decoration: none;
+}
+
+button {
+    font-family: $fontFamily;
+
+    &:focus {
+        outline: none;
+    }
+}
+
+li {
+    list-style-type: none;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: $fontFamily;
+    background-color: whitesmoke;
+}

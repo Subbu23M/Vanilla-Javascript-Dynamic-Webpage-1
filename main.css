@@ -1,0 +1,26 @@
+a,
+a:hover {
+  text-decoration: none;
+}
+
+button {
+  font-family: "Open Sans", sans-serif;
+}
+
+button:focus {
+  outline: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+  background-color: whitesmoke;
+}
+/*# sourceMappingURL=main.css.map */
